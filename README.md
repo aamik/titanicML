@@ -2,6 +2,8 @@
 
 [The code](https://github.com/aamik/titanicML/blob/main/titanicdemo.ipynb)
 
+[The dataset](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv)
+
 ## Overview
 This repository presents a comprehensive machine learning classification demonstration using the renowned Titanic dataset. The dataset encapsulates details about the passengers aboard the ill-fated Titanic ship, focusing on their survival outcome.
 
