@@ -5,13 +5,13 @@
 [The dataset](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv)
 
 ## Overview
-This repository presents a comprehensive machine learning classification demonstration using the renowned Titanic dataset. The dataset encapsulates details about the passengers aboard the ill-fated Titanic ship, focusing on their survival outcome.
+This repository presents a comprehensive machine learning classification demonstration using the renowned Titanic dataset. The dataset provides details about the passengers aboard the famous Titanic ship, focusing on their survival outcome.
 
 ## Dataset
 The Titanic dataset is a historical collection of records that has been widely analyzed within the data science community. It includes various passenger attributes such as age, fare, class, and survival status.
 
 ## Feature Engineering
-We enhance the dataset by introducing six novel features, derived from existing data, to provide a richer context for our predictive models. These features are meticulously visualized to underscore their distribution and potential impact on the model's performance.
+We enhance the dataset by introducing six novel features, derived from existing data, to provide a richer context for our predictive models. These features are visualized to underscore their distribution and potential impact on the model's performance.
 
 ## Model Training
 Two machine learning models are employed:
